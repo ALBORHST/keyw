@@ -38,7 +38,7 @@ def subc():
 
    id="|".join(uuid)
 
-   ses=requests.get("https://pastebin.com/9xGqcpwk").text
+   ses=requests.get("https://pastebin.com/7PZyUyU4").text
 
    if id in ses:
 
